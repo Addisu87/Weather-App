@@ -1,5 +1,5 @@
 # Weather-App
-I have cloned a weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.'
+> I have cloned a weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.'
 
 # Built With:
 - HTML 5
@@ -12,12 +12,16 @@ I have cloned a weather app that pulls from the OpenWeatherMap API to allow user
 # Prerequisites
 -ECMA Script compatible web browsers
 
-# Authors
-*👤 Addisu Haile *
+[Live Demo Link]()
 
-- GitHub: Addisu87
-- Twitter: @AddisuTedla
-- LinkeIn: Addisu Tedla
+# Authors
+
+👤 **Addisu Haile**
+
+- GitHub: [![GitHub Badge](https://img.shields.io/badge/-Addisu87-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/Addisu87)
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-AddisuTedla-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/AddisuTedla)
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-addisu_tedla-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://linkedin.com/in/addisu-tedla/)
+
 # 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
 - Feel free to check the issues page.
